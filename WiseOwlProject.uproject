@@ -47,8 +47,5 @@
 			"Name": "GameplayBehaviorSmartObjects",
 			"Enabled": true
 		}
-	],
-	"AdditionalPluginDirectories": [
-		"Plugins"
 	]
 }
